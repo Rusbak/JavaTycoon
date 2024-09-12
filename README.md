@@ -1,2 +1,2 @@
 # JavaTycoon
-Having to learn Java and deciding to make a visual game might be the best idea of mankind. not
+Had to learn Java, which was not very enjoyable due to the amount of code needed for something small, so I tried to make a tycoon game. Probably has way too much inheritance, resulting in not actually getting to a final product
